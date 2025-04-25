@@ -74,5 +74,5 @@ Each row represents a unique user with the following features:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/streamwave-churn-analysis.git
+   git clone https://github.com/Stegedave/Stream-wave-analysis
    cd streamwave-churn-analysis
