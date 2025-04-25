@@ -75,4 +75,4 @@ Each row represents a unique user with the following features:
 1. Clone the repo:
    ```bash
    git clone https://github.com/Stegedave/Stream-wave-analysis
-   cd streamwave-churn-analysis
+   cd Stream-wave-analysis
