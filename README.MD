@@ -46,11 +46,6 @@ Each row represents a unique user with the following features:
 - Evaluation: Accuracy, Precision, Recall
 - Feature importance analysis
 
-### 3. Business Recommendations
-- Targeted re-engagement for low-engagement users
-- Proactive support for users with open tickets
-- Personalized content suggestions based on genre preferences
-
 ---
 
 ## 🛠️ Tech Stack
