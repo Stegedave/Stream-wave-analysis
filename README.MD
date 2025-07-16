@@ -61,7 +61,7 @@ Each row represents a unique user with the following features:
 ## 📄 Deliverables
 
 - 📓 `notebooks/churn_analysis.ipynb` – Full analysis & modeling
-- 📊 `reports/churn_findings.pdf` – (Optional) Summary presentation for stakeholders
+- 📊 `reports/suggestions.ipynb` – Summary presentation for stakeholders
 
 ---
 
